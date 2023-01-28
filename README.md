@@ -29,16 +29,16 @@
       
 *** GitHub/Version Control Training
       Version Control:
-             ACID
-                  A: Atomic
-                  C: Consistent
-                  I: Isolated
-                  D: Durable
+            ACID
+                  A-> Atomic
+                  C-> Consistent
+                  I-> Isolated
+                  D-> Durable
             CRUD 
-                  C: Create
-                  R: Read
-                  U: Update
-                  D: Delete
+                  C-> Create
+                  R-> Read
+                  U-> Update
+                  D-> Delete
             Layers are needed for verisoning and the depth of the team.
       
       
