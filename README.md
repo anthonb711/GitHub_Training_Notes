@@ -3,16 +3,16 @@
 *** SW Architecture  
       Stories are for consistent updates Requirements are for limited updates.
       SRS:
-        Outlines architecture elements
-        Elicitation of customer requirements
-          <subject> shall <capability> format
-          Does not include implementation or functional details ("The How" is reserved for the SDD)
-        User roles and scenarios
-        Test Methods
-          Unit Tests
-          Code Review/Inspection
-          Demo
-        Timeline
+            Outlines architecture elements
+            Elicitation of customer requirements
+            <subject> shall <capability> format
+            Does not include implementation or functional details ("The How" is reserved for the SDD)
+            User roles and scenarios
+            Test Methods
+                  Unit Tests
+                  Code Review/Inspection
+                  Demo
+            Timeline
       
       MVC:
             Model - The backend that holds the structure
