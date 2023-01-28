@@ -20,10 +20,11 @@
             Control - The "middle-end" the doing of the code. Functionality lives in the control.
       
       
-*** Configuration Management
-            Flow of changes and updates from "Bug Report" to Deployment/Delivery 
-            SW artifacts help other devs understand the why things are they way they are
-            Shows how stories in Aglie Development are carried through. Must define "done" for a story
+*** Configuration Management:
+           Overview:
+           Flow of changes and updates from "Bug Report" to Deployment/Delivery 
+           SW artifacts help other devs understand the why things are they way they are
+           Shows how stories in Aglie Development are carried through. Must define "done" for a story
       
       
 *** GitHub/Version Control Training
