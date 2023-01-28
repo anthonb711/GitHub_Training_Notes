@@ -18,7 +18,7 @@
       
       MVC:
             Model - The backend that holds the structure
-            View - Frontend that interfaces with the uswer and other models and controls
+            View - Frontend that interfaces with the user and other models and controls
             Control - The "middle-end" the doing of the code. Functionality lives in the control.
       
       
