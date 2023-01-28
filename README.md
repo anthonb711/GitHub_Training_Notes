@@ -1,8 +1,8 @@
 # GitHub_Training_Minutes
 
-*** Week 3-4 Assignment Review
+*** SW Architecture  
+      Stories are for consistent updates Requirements are for limited updates.
       SRS:
-        What is the product
         Outlines architecture elements
         Elicitation of customer requirements
           <subject> shall <capability> format
@@ -12,6 +12,13 @@
           Unit Tests
           Code Review/Inspection
           Demo
+        Timeline
+      
+      MVC:
+            Model - The backend that holds the structure
+            View - Frontend that interfaces with the uswer and other models and controls
+            Control - The "middle-end" the doing of the code. Functionality lives in the control.
+      
       
 *** Configuration Management
             Flow of changes and updates from "Bug Report" to Deployment/Delivery 
@@ -21,16 +28,17 @@
       
 *** GitHub/Version Control Training
       Version Control:
-             ACID - 
+             ACID
                   A: Atomic
                   C: Consistent
                   I: Isolated
                   D: Durable
-            CRUD - 
+            CRUD 
                   C: Create
                   R: Read
                   U: Update
                   D: Delete
+            Layers are needed for verisoning and the depth of the team.
       
       
       GitHub:
