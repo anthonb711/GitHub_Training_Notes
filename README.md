@@ -20,8 +20,8 @@
             Control - The "middle-end" the doing of the code. Functionality lives in the control.
       
       
-*** Configuration Management:
-           Overview:
+*** Configuration Management
+      Overview:
            Flow of changes and updates from "Bug Report" to Deployment/Delivery 
            SW artifacts help other devs understand the why things are they way they are
            Shows how stories in Aglie Development are carried through. Must define "done" for a story
@@ -30,16 +30,15 @@
 *** GitHub/Version Control Training
       Version Control:
             ACID
-                  A-> Atomic
-                  C-> Consistent
-                  I-> Isolated
-                  D-> Durable
+            A-> Atomic
+            C-> Consistent
+            I-> Isolated
+            D-> Durable
             CRUD 
-                  C-> Create
-                  R-> Read
-                  U-> Update
-                  D-> Delete
-            Layers are needed for verisoning and the depth of the team.
+            C-> Create
+            R-> Read
+            U-> Update
+            D-> Delete
       
       
       GitHub:
