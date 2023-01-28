@@ -1,7 +1,9 @@
 # GitHub_Training_Minutes
 
 *** SW Architecture  
+      
       Stories are for consistent updates Requirements are for limited updates.
+      
       SRS:
             Outlines architecture elements
             Elicitation of customer requirements
@@ -22,12 +24,14 @@
       
 *** Configuration Management
       Overview:
+           
            Flow of changes and updates from "Bug Report" to Deployment/Delivery 
            SW artifacts help other devs understand the why things are they way they are
            Shows how stories in Aglie Development are carried through. Must define "done" for a story
       
       
 *** GitHub/Version Control Training
+      
       Version Control:
             ACID
             A-> Atomic
