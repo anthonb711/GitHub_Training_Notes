@@ -1,22 +1,34 @@
 **Security Notes**
 
 Authentication:
-  The process by which an individual or system's identiy is verified. Authentication establishes WHO a user is but does not establish permissions or access rights.
-  Methods of authentication include
-    * Username/Password
-    * Biometrics
-    * Multi-factor
-    * Tokens
+  * Definiton:
+      The process by which an individual or system's identiy is verified. Authentication establishes WHO a user is but does not establish permissions or access rights. Methods of authentication include
+          * Username/Password
+          * Biometrics
+          * Multi-factor
+          * Tokens
+
+  * Risk Assesment:
 
 Authorization:
-  The authorizaiton step compares the access levels of the asset to the permissions of the user and grants or denys access accordingly. Even authenticated users can be denied authorization if their
-  user permissions are beneath that of the asset.
+  * Definiton:
+      The authorizaiton step compares the access levels of the asset to the permissions of the 
+      user and grants or denys access accordingly. Even authenticated users can be denied 
+      authorization if their user permissions are beneath that of the asset.
+
+  * Risk Assesment:
 
 Access:
-  Granting the user access to an asset. This is determined by both the authentication and authorization steps. There are different methodologies for determineing access. They include but are not limited to:
-    * Access Control Lists (ACLs)
-    * Role-based Access Control (RBAC)
-    * Mandatory Access Control (MAC)
+  * Definition:
+      Granting the user access to an asset. This is determined by both the authentication and 
+      authorization steps. There are different methodologies for determineing access. They include
+      but are not limited to:
+        * Access Control Lists (ACLs)
+        * Role-based Access Control (RBAC)
+        * Mandatory Access Control (MAC)
+
+  * Risk Assesment:
+  
 
 
 
