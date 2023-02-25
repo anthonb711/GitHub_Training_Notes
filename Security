@@ -1,5 +1,20 @@
 **Security Notes**
 
+Authentication:
+  The process by which an individual or system's identiy is verified. Authentication establishes WHO a user is but does not establish permissions or access rights.
+  Methods of authentication include
+    * Username/Password
+    * Biometrics
+    * Multi-factor
+    * Tokens
+
+Authorization:
+
+Access:
+
+
+
+
 Research on how to write a Risk statement.
 
 i.e. Given the <Condition> there is a possibility that <EVENT> may occur, causing <CONSEQUENCES>.
