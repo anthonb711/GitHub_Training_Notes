@@ -9,7 +9,13 @@
           * Tokens
 
   * Risk Statement:
-    Given that the UL Panel App stores panels designs from differnt users 
+      Given that the UL Panel App stores panels designs from differnt users there is a need to
+      authenticate users so that they can access thier saved panels.
+
+      Likelihood: High
+
+      Impact: High
+
 
 -Authorization:
   * Definiton:
