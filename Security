@@ -1,0 +1,26 @@
+**Security Notes**
+
+Research on how to write a Risk statement.
+
+i.e. Given the <Condition> there is a possibility that <EVENT> may occur, causing <CONSEQUENCES>.
+
+Write a security risk statement for each of the As
+
+Part 2: Create Software Development Folder Links to an external site.
+As you start to implement features, you need to provide artifacts on your changes to they can be reviewed.
+
+Each story will have an associated directory. In that directory it will have:
+
+Task Description Document
+  This contains the story
+  What requirements the story satisfies
+  What design elements are related
+Difference Listing
+Unit Test Cases
+Review Report
+  Documents are updated
+  Code is checked in
+  Unit Tests are run
+
+
+Provide a link to each of your Story’s Software Development folder
