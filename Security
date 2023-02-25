@@ -9,8 +9,14 @@ Authentication:
     * Tokens
 
 Authorization:
+  The authorizaiton step compares the access levels of the asset to the permissions of the user and grants or denys access accordingly. Even authenticated users can be denied authorization if their
+  user permissions are beneath that of the asset.
 
 Access:
+  Granting the user access to an asset. This is determined by both the authentication and authorization steps. There are different methodologies for determineing access. They include but are not limited to:
+    * Access Control Lists (ACLs)
+    * Role-based Access Control (RBAC)
+    * Mandatory Access Control (MAC)
 
 
 
