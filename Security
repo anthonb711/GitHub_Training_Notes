@@ -2,15 +2,17 @@
 
 -Authentication:
   * Definiton:
-      The process by which an individual or system's identiy is verified. Authentication establishes WHO a user is but does not establish permissions or access rights. Methods of authentication include
+      The process by which an individual or system's identiy is verified. Authentication 
+      establishes WHO a user is but does not establish permissions or access rights. Methods of authentication include
           * Username/Password
           * Biometrics
           * Multi-factor
           * Tokens
 
   * Risk Statement:
-      Given that the UL Panel App stores panels designs from differnt users there is a need to
-      authenticate users so that they can access thier saved panels.
+      Given that the UL Panel App requires users to log in, there is a possibility
+      is a possibility of an injection attack, causing an unauthenticated user to be authenticated.
+       
 
       Likelihood: High
 
@@ -24,6 +26,13 @@
       authorization if their user permissions are beneath that of the asset.
 
   * Risk Statement:
+      Given that the there is intellectual property stored on the servers, there is a possibility
+      of user permissions to be set incorrectly, causing unauthorized access to customer IP.
+
+      Likelihood: High
+
+      Impact: High
+
 
 -Access:
   * Definition:
@@ -35,7 +44,13 @@
         * Mandatory Access Control (MAC)
 
   * Risk Statement:
+      Given that the there will be an access control systes there is a possibility
+      of user asset or user permission levels to be set improperly causing unauthorized access to
+      customer IP. This could lead to the loss of or comprimised IP.
 
+      Likelihood: High
+
+      Impact: High
 
 
 
