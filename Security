@@ -1,0 +1,53 @@
+**Security Notes**
+
+-Authentication:
+  * Definiton:
+      The process by which an individual or system's identiy is verified. Authentication 
+      establishes WHO a user is but does not establish permissions or access rights. Methods of authentication include
+          * Username/Password
+          * Biometrics
+          * Multi-factor
+          * Tokens
+
+  * Risk Statement:
+      Given that the UL Panel App requires users to log in, there is a possibility
+      is a possibility of an injection attack, causing an unauthenticated user to be authenticated.
+       
+
+      Likelihood: High
+
+      Impact: High
+
+
+-Authorization:
+  * Definiton:
+      The authorizaiton step compares the access levels of the asset to the permissions of the 
+      user and grants or denys access accordingly. Even authenticated users can be denied 
+      authorization if their user permissions are beneath that of the asset.
+
+  * Risk Statement:
+      Given that the there is intellectual property stored on the servers, there is a possibility
+      of user permissions to be set incorrectly, causing unauthorized access to customer IP.
+
+      Likelihood: High
+
+      Impact: High
+
+
+-Access:
+  * Definition:
+      Granting the user access to an asset. This is determined by both the authentication and 
+      authorization steps. There are different methodologies for determineing access. They include
+      but are not limited to:
+        * Access Control Lists (ACLs)
+        * Role-based Access Control (RBAC)
+        * Mandatory Access Control (MAC)
+
+  * Risk Statement:
+      Given that the there will be an access control systes there is a possibility
+      of user asset or user permission levels to be set improperly causing unauthorized access to
+      customer IP. This could lead to the loss of or comprimised IP.
+
+      Likelihood: High
+
+      Impact: High
